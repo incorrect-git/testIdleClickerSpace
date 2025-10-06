@@ -2,8 +2,11 @@
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="AimTargetingProgressWorldUI" preserve="all" />
     <type fullname="BulletController" preserve="all" />
+    <type fullname="ClickObject" preserve="all" />
+    <type fullname="ColliderVisualizer" preserve="all" />
     <type fullname="FrCollide" preserve="all" />
     <type fullname="LaserGunController" preserve="all" />
+    <type fullname="LocalLayerIgnore" preserve="all" />
     <type fullname="Outline" preserve="all" />
     <type fullname="PointObject" preserve="all" />
     <type fullname="ReloadAmmoProgressWorldUI" preserve="all" />
